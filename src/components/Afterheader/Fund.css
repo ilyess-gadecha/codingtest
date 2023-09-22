@@ -1,0 +1,72 @@
+/* Fund.css */
+.grid-container {
+  display: grid;
+  grid-template-columns: 20% 80%; /* Create a horizontal grid with two columns */
+  gap: 20px; /* Optional gap between columns */
+}
+
+.grid-item {
+ /* Example background color for the grid items */
+  padding: 20px; /* Add padding as needed */
+}
+
+.column-divider {
+  border-top: 0.05rem solid #368a60; /* Green horizontal line with specified thickness */
+  margin: 0;
+  width: 30px;
+
+}
+
+.grid-item h1 {
+  /* Styling for the <h1> element within the first column */
+  font-size: 40px; /* Example font size */
+  margin: 0;
+  padding: 0;
+  border-top: solid #273f33 20px ;
+  padding-top: 10px;
+  color: #273f33;
+  ;
+
+}
+.grid-item h3 {
+  /* Styling for the <h1> element within the first column */
+  font-size: 20px; /* Example font size */
+  margin: 0;
+  padding: 0;
+  border-top: solid #273f33 20px ;
+  padding-top: 20px;
+  color: #273f33;
+
+margin-bottom: 10px;
+}
+ 
+.vide{
+
+  height: 200px;
+  width: 100%;
+  border-bottom: #273f33 7px solid;
+}
+.text-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three columns */
+  gap: 20px; /* Gap between text elements */
+
+}
+
+.text-grid p {
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+  color: #000;
+  border-top: #000 2px  solid  ;
+}
+.vide1
+{
+  
+  height: 84px;
+  weight: 100%;
+  border-bottom: #273f33 7px solid;
+
+}

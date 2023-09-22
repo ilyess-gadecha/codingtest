@@ -1,0 +1,22 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    gap: 20px; /* Optional: Adjust the gap between the components */
+    width: 100%; /* Optional: Make the grid container full width */
+  }
+  
+  .filtrage-container {
+    grid-column: 1 / 2;
+  }
+  
+  .arrayofdata-container {
+    grid-column: 2 / 3;
+  }
+  
+  .app-container{
+    
+        padding-left: 52px;
+        padding-right: 52px;
+       
+      
+  }

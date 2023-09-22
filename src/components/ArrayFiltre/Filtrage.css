@@ -1,0 +1,32 @@
+h5{
+    color :#273f33;
+    border-bottom: 1px solid #273f33;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+ 
+.filter-header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%; /* Ensure the content takes the full width */
+    border-bottom: 1px solid #273f33;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+
+  }
+  
+  .filter-header-content h6 {
+    margin-right: 10px; /* Add space to the right of the text (adjust as needed) */
+  }
+  li{
+    list-style-type: none;
+    font-size : 15px ;
+    font-style:  "FoundersGrotesk";
+
+
+  }
+  .checkbox-label-text {
+    margin-left: 10px; /* Adjust the margin as needed */
+  }
+  

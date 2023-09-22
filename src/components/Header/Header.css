@@ -1,0 +1,40 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .header-left {
+    display: flex;
+  }
+  
+  .header-right {
+    text-align: right;
+  }
+  
+  .text1,
+  .text2,
+  .contact-us {
+    margin: 10px;
+  }
+
+  .flex-column {
+  display: flex;
+  flex-direction: column;
+}
+/* Header.css */
+ 
+
+.custom-hr {
+  margin-top: 5px; /* Adjust the margin-top as needed */
+}
+.logo {
+  height: 30px;
+  width: auto;
+  align-self: center;
+  margin: 0;
+  object-fit: contain;
+  margin-bottom: 20px;
+}
+

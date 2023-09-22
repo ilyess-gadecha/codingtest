@@ -1,0 +1,9 @@
+/* Add this CSS to control the search icon size */
+.search-icon {
+    font-size: 25px; /* Adjust the font-size to match the input height */
+    color : gainsboro;
+  }
+  
+  form{
+    margin-bottom:  30px;
+  }
