@@ -7,11 +7,11 @@ function Footer() {
         © 2023 State Street Corporation. All rights reserved.
       </div>
       <div className="footer-links">
-        <a href="#">Global Privacy Notice</a>
-        <a href="#">Cookie & Online Tracking Disclosure</a>
-        <a href="#">Cookie Settings</a>
-        <a href="#">Terms & Conditions</a>
-        <a href="#">Sitemap</a>
+        <a href="https://www.linkedin.com/in/ilyess-gadecha/">Global Privacy Notice</a>
+        <a href="https://www.linkedin.com/in/ilyess-gadecha/">Cookie & Online Tracking Disclosure</a>
+        <a href="https://www.linkedin.com/in/ilyess-gadecha/">Cookie Settings</a>
+        <a href="https://www.linkedin.com/in/ilyess-gadecha/">Terms & Conditions</a>
+        <a href="https://www.linkedin.com/in/ilyess-gadecha/">Sitemap</a>
       </div>
     </footer>
   );

@@ -28,34 +28,34 @@ function Navb() {
           <Nav className="me-auto">
             {/* Create dropdown menu for Insights */}
             <NavDropdown title="Insights" id="insights-dropdown">
-              <NavDropdown.Item href="#action/1.1">Option 1</NavDropdown.Item>
-              <NavDropdown.Item href="#action/1.2">Option 2</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 1</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 2</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/1.3">Option 3</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 3</NavDropdown.Item>
             </NavDropdown>
 
             {/* Create dropdown menu for Investment Capabilities */}
             <NavDropdown title="Investment Capabilities" id="capabilities-dropdown">
-              <NavDropdown.Item href="#action/2.1">Option 1</NavDropdown.Item>
-              <NavDropdown.Item href="#action/2.2">Option 2</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 1</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 2</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action/2.3">Option 3</NavDropdown.Item>
             </NavDropdown>
 
             {/* Create dropdown menu for Resources */}
             <NavDropdown title="Resources" id="resources-dropdown">
-              <NavDropdown.Item href="#action/3.1">Option 1</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">Option 2</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 1</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 2</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.3">Option 3</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 3</NavDropdown.Item>
             </NavDropdown>
 
             {/* Create dropdown menu for About Us */}
             <NavDropdown title="About Us" id="about-dropdown">
-              <NavDropdown.Item href="#action/4.1">Option 1</NavDropdown.Item>
-              <NavDropdown.Item href="#action/4.2">Option 2</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 1</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 2</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/4.3">Option 3</NavDropdown.Item>
+              <NavDropdown.Item href="https://www.linkedin.com/in/ilyess-gadecha/">Option 3</NavDropdown.Item>
             </NavDropdown>
           </Nav>
           {/* Add a search bar on the right with a flex layout */}
@@ -63,7 +63,7 @@ function Navb() {
             className="d-flex align-items-center"
             style={{ marginLeft: 'auto', paddingRight: '20px' }}
           >
-            <Nav.Link href="#search" style={navLinkStyle}>
+            <Nav.Link href="https://www.linkedin.com/in/ilyess-gadecha/" style={navLinkStyle}>
               Search
             </Nav.Link>
             <FaSearch />

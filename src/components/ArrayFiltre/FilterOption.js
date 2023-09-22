@@ -6,19 +6,15 @@ function FilterOption({ optionName }) {
   // State to manage the visibility of the filter options
   const [isOpen, setIsOpen] = useState(false);
 
-  // State to store the selected filter option
-  const [selectedOption, setSelectedOption] = useState(null);
+ 
 
   // Function to toggle the options' visibility
   const toggleOptions = () => {
     setIsOpen(!isOpen);
   };
 
-  // Function to handle option selection
-  const handleOptionClick = (option) => {
-    setSelectedOption(option);
-    setIsOpen(false); // Close the options list when an option is selected
-  };
+ 
+   
 
   return (
     <div className="filter-dropdown">

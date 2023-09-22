@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Header from './components/Header/Headerr';
 import FundFinder from './components/Afterheader/FundFinder';
 import Filtrage from './components/ArrayFiltre/Filtrage';
